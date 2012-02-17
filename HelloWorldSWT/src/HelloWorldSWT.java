@@ -17,7 +17,6 @@ public class HelloWorldSWT {
 		shell.setMinimumSize(250, 250);
 		shell.setMaximized(true);
 		// shell.setFullScreen(true);
-		//delete this line
 		
 		// button
 		Button myButton = new Button(shell, SWT.PUSH);
